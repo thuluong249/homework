@@ -7,6 +7,7 @@ Create the website named Horiseon with HTML, CSS, Github.
 - Optimize code on Style.CSS by combining and repeating them.
 - The visitors to the site will find the marketing company's services.
 - Users can read about the services in detail on visually appealing page with photographs that create a fun and collaborative company image.
+
 ## Screenshot
 ![Screenshot](/assets/images/screenshot.png)
 ![Screenshot2](/assets/images/screenshot2.png)

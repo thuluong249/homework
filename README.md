@@ -9,8 +9,8 @@ Create the website named Horiseon with HTML, CSS, Github.
 - Users can read about the services in detail on visually appealing page with photographs that create a fun and collaborative company image.
 
 ## Screenshot
-![Screenshot](/assets/images/Screenshot.png)
-![Screenshot2](/assets/images/Screenshot2.png)
+![Screenshot](/assets/Images/Screenshot.png)
+![Screenshot2](/assets/Images/Screenshot2.png)
 
 
 ## links:

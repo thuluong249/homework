@@ -11,8 +11,9 @@ Create the website named Horiseon with HTML, CSS, Github.
 ![Screenshot](/assets/images/screenshot.png)
 ![Screenshot2](/assets/images/screenshot2.png)
 
-## links:
-www.horiseon.com
 
-https://github.com/thuluong249/homework
+## links:
+[Horiseon](www.horiseon.com)
+
+[Github](https://github.com/thuluong249/homework)
 
